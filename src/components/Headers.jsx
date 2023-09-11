@@ -3,8 +3,8 @@ import React from "react";
 const Headers = () => {
   return (
     <div className="flex justify-between py-8 border-b-2">
-      <p className="text-white text-2xl font-bold">Miftahul</p>
-      <ul className="flex gap-5 text-white text-xl">
+      <h1 className="text-white">Miftahul</h1>
+      <ul className="flex gap-5 text-white text-xl font-medium">
         <li>
           <a href="#">Home</a>
         </li>
